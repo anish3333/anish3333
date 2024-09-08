@@ -16,7 +16,7 @@ With a focus on creating **dynamic, user-friendly web applications**, I speciali
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anish3333&show_icons=true&theme=dracula&rank_icon=github" />
 </a>
 <a href="https://anish-awasthi.vercel.app/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anish3333&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anish3333&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
 ## 🏆 GitHub Trophies:
