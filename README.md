@@ -1,16 +1,13 @@
-# 💫 About Me:
-Hi, I'm **Anish Awasthi** 👋!  
+# Hi, I'm **Anish Awasthi** 👋! 
 I'm a Web Developer based in India, currently pursuing my degree while building projects that address real-world problems.
 
 With a focus on creating **dynamic, user-friendly web applications**, I specialize in building scalable and efficient solutions using modern web technologies.
 
-### 🔧 What I Do:
+
+# 🔧 What I Do:
 - **Web Development:** Crafting responsive, interactive web applications.
 - **Project Management:** Leading innovative projects from concept to completion.
 - **Machine Learning:** Building data-driven models to solve complex problems.
-
-## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anish3333&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
 ## 📊 GitHub Stats:
@@ -22,6 +19,8 @@ With a focus on creating **dynamic, user-friendly web applications**, I speciali
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anish3333&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+## 🏆 GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anish3333&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
 ## Leetcode Info:
