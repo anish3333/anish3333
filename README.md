@@ -19,10 +19,6 @@ With a focus on creating **dynamic, user-friendly web applications**, I speciali
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anish3333&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
-## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anish3333&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-
 ## Leetcode Info:
 
 <p align="center">
