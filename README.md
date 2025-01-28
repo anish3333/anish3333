@@ -1,7 +1,7 @@
 # Hi, I'm **Anish Awasthi** 👋! 
 I'm a Web Developer based in India, currently pursuing my degree in Computer Engineering from Mumbai while building projects that address real-world problems
 
-With a focus on creating **dynamic, user-friendly web applications**, I specialize in building scalable and efficient solutions using modern web technologies.
+With a focus on creating **dynamic, and meaningful web applications**, I specialize in building scalable and efficient solutions using modern web technologies.
 
 
 # 🔧 What I Do:
