@@ -12,12 +12,14 @@ With a focus on creating **dynamic, and meaningful web applications**, I special
 
 ## 📊 GitHub Stats:
 
-<a href="https://anish-awasthi.vercel.app/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anish3333&show_icons=true&theme=dracula&rank_icon=github" />
-</a>
-<a href="https://anish-awasthi.vercel.app/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anish3333&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-</a>
+<div align="center">
+  <a href="https://github.com/anish3333">
+    <img height=200 align="center" alt="GitHub Stats for anish3333" src="https://github-readme-stats.vercel.app/api?username=anish3333&theme=blueberry&show_icons=true&hide_border=true&count_private=true&rank_icon=github&hide=issues&show=prs_merged_percentage&cache_seconds=86400&disable_animations=true" />
+  </a>
+  <a href="https://github.com/anish3333">
+    <img height=200 align="center" alt="Top Languages for anish3333" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish3333&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6&hide=css,html,ejs,cmake,dockerfile,jupyter%20notebook&cache_seconds=86400&disable_animations=true&size_weight=0.05&count_weight=0.95" />
+  </a>
+</div>
 
 ## Leetcode Info:
 
